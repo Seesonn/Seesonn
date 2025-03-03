@@ -1,7 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sisan Bhattarai</h1>
-<h3 align="center">A passionate FullStack Developer and Tech Enthusiast from Nepal</h3>
-
+<h1 align="center">Hello, I'm Sisan Bhattarai</h1> <h3 align="center">FullStack Developer | Tech Enthusiast | Nepal</h3> <p align="center"> Welcome to my GitHub! I love building web applications that are both functional and user-friendly. As a FullStack Developer, I enjoy working on both front-end and back-end technologies to create clean and efficient solutions. Let's turn ideas into reality! </p>
 <p align="center">
   <a href="https://github.com/sisanbhattarai">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Always+learning+new+tech" alt="Typing SVG" />
@@ -36,8 +34,8 @@
 ###  Tech Stack
 <p align="left">
  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
@@ -53,6 +51,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
