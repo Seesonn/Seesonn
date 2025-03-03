@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seesonn&show_icons=true&theme=radical&hide_border=true" alt="sisanbhattarai" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seesonn&theme=radical&hide_border=true" alt="sisanbhattarai" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Seesonn&theme=radical&hide_border=true" alt="sisanbhattarai" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seesonn&layout=compact&theme=radical&hide_border=true" alt="sisanbhattarai" />
 </p>
 
