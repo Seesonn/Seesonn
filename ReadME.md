@@ -66,7 +66,9 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
  
- 
+ <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
