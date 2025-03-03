@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 💬 Ask me about **React, Node.js,DSA**.
 - 📫 How to reach me: **sisanbhattarai001@gmail.com**.
@@ -20,7 +20,7 @@
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 <p align="left">
    <a href="https://www.linkedin.com/in/sisan-bhattarai-7006242b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="left">
  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -78,7 +78,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Seesonn&show_icons=true&theme=radical&hide_border=true" alt="sisanbhattarai" />
 
