@@ -13,20 +13,19 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Advanced JavaScript, Cloud Computing, and DevOps**.
-- 👨‍💻 All of my projects are available at [https://github.com/sisanbhattarai](https://github.com/Seesonn).
-- 💬 Ask me about **React, Node.js, Python, and Web Development**.
+
+- 💬 Ask me about **React, Node.js,DSA**.
 - 📫 How to reach me: **sisanbhattarai001@gmail.com**.
-- ⚡ Fun fact: **I love solving problems and building things that make life easier!**
+
 
 ---
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/sisan-bhattarai" target="_blank">
+   <a href="https://www.linkedin.com/in/sisan-bhattarai-7006242b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/sisan_bhattarai" target="_blank">
+  <a href="https://www.instagram.com/see_son_?igsh=MTFhc25td2RpbGF0bw==" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
  
@@ -36,8 +35,17 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+ <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -72,9 +80,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisanbhattarai&show_icons=true&theme=radical&hide_border=true" alt="sisanbhattarai" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sisanbhattarai&theme=radical&hide_border=true" alt="sisanbhattarai" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisanbhattarai&layout=compact&theme=radical&hide_border=true" alt="sisanbhattarai" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seesonn&show_icons=true&theme=radical&hide_border=true" alt="sisanbhattarai" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seesonn&theme=radical&hide_border=true" alt="sisanbhattarai" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seesonn&layout=compact&theme=radical&hide_border=true" alt="sisanbhattarai" />
 </p>
 
 
