@@ -14,9 +14,9 @@
 
 ###  About Me
 
-- 💬 Ask me about **React, Node.js, DSA**.
-- 📫 How to reach me: **sisanbhattarai001@gmail.com**.
-- 🌐 Check out my portfolio: [sisanbhattarai.com.np](https://sisanbhattarai.com.np)
+-  Ask me about **React, Node.js, DSA**.
+-  How to reach me: **sisanbhattarai001@gmail.com**.
+-  Check out my portfolio: [sisanbhattarai.com.np](https://sisanbhattarai.com.np)
 
 ---
 
