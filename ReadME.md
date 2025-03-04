@@ -88,7 +88,7 @@
 ###  Featured Projects
 
 ####  **Futsal Booking System** *(BSc CSIT Final Year Project)*
-A robust and scalable platform designed to streamline the futsal booking process for users, futsal owners, and administrators. The system ensures fairness, reliability, and user engagement through advanced features like **reward systems**, **strong locking algorithms**, and **priority-based slot allocation**. This project was developed as part of my **BSc CSIT Final Year Project**.
+A platform designed to streamline the futsal booking process for users, futsal owners, and administrators. The system ensures fairness, reliability, and user engagement through advanced features like **reward systems**, **strong locking algorithms**, and **priority-based slot allocation**. This project was developed as part of my **BSc CSIT Final Year Project**.
 
 - **Technologies Used**: React, Nest.js, Postgres, Tailwind CSS, HTML5, CSS3
 - **Key Features**:
