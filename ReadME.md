@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Seesonn">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Always+learning+new+tech;Turning+ideas+into+reality;Passionate+about+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Always+learning+new+tech;Turning+ideas+into+reality;Passionate+about+clean+code" alt="Typing SVG" />
 </a>
 </p>
 
