@@ -87,7 +87,7 @@
 ---
 ###  Featured Projects
 
-#### 🚀 **Futsal Booking System** *(BSc CSIT Final Year Project)*
+####  **Futsal Booking System** *(BSc CSIT Final Year Project)*
 A robust and scalable platform designed to streamline the futsal booking process for users, futsal owners, and administrators. The system ensures fairness, reliability, and user engagement through advanced features like **reward systems**, **strong locking algorithms**, and **priority-based slot allocation**. This project was developed as part of my **BSc CSIT Final Year Project**.
 
 - **Technologies Used**: React, Nest.js, Postgres, Tailwind CSS, HTML5, CSS3
@@ -151,10 +151,7 @@ A robust and scalable platform designed to streamline the futsal booking process
 ---
 
 ###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seesonn&show_icons=true&theme=radical&hide_border=true" alt="sisanbhattarai" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seesonn&layout=compact&theme=radical&hide_border=true" alt="sisanbhattarai" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Seesonn&show_icons=true&theme=radical&hide_border=true" alt="sisanbhattarai" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seesonn&layout=compact&theme=radical&hide_border=true" alt="sisanbhattarai" /> </p><p align="center"> <strong> What My Stats Say:</strong><br> - The <strong>GitHub Stats</strong> showcase my contributions, activity, and consistency as a developer.<br> - The <strong>Top Languages</strong> section highlights the programming languages I use most frequently in my projects.<br> - I believe in continuous learning and improvement, and my stats reflect my dedication to coding and building impactful solutions. </p>
 
 ---
 
